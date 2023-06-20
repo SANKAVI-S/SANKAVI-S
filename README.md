@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SANKAVI-Sk
-- 👀 I’m interested in Frontend developer...
+- 👀 I’m interested in Frontend developer,gaming application
 - 🌱 I’m currently pursuing my study in MSEC...
 - 💞️ I’m looking to collaborate to work on new critical thinking of real time solutions
 
